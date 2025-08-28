@@ -79,6 +79,6 @@ Run all cells → outputs will be in figures/ and report.md.
 
 Vivek S Chindalia
 
-🎓 3rd-year IT Engineering student
+🎓 4th-year IT Engineering student
 
 📧 chindaliavivek@gmail.com
