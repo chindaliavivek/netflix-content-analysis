@@ -1,0 +1,31 @@
+Netflix Content Analysis – Business Insights
+
+1. Content Distribution
+   -Movies dominate Netflix at ~70%.
+   -TV Shows have risen rapidly since 2016.
+
+2. Content Growth Trend
+   -Sharp growth from 2015 to 2019.
+   -2019 was the peak year for new titles added.
+
+3. Country Insights
+   -United States produces the highest number of titles.
+   -India and UK are major contributors.
+   -High international diversity in Netflix catalog.
+
+4. Genre Analysis
+   -Drama and Comedy are the most common genres.
+   -Action & Thriller genres have grown in popularity.
+
+5. Rating Distribution
+   -TV-MA is the most frequent rating.
+   -Netflix content leans toward mature audiences.
+
+6. Duration Patterns
+   -Movies mostly range between 80–120 mins.
+   -TV Shows usually have 1–3 seasons.
+
+Business Recommendations:
+-Increase global content collaborations.
+-Expand TV show production—strong growth segment.
+-Enhance family-friendly content due to low representation.
