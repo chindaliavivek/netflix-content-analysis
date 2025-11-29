@@ -18,18 +18,31 @@ Python: Pandas, NumPy, Matplotlib
 Environment: Google Colab / Jupyter Notebook
 
 🔍 Analysis Performed
+
 Data Cleaning
+
 Handled missing values, removed duplicates, standardized columns.
+
 Parsed date_added into year_added and month_added.
+
 Exploratory Data Analysis (EDA)
+
 Movies vs TV Shows distribution.
+
 Titles added over time (trend by year).
+
 Top producing countries.
+
 Top genres.
+
 Ratings distribution.
+
 Movie duration vs TV Show seasons.
+
 Visualization
+
 Bar charts, line plots, histograms for trend analysis.
+
 All plots saved in figures/ folder.
 
 📈 Key Insights
