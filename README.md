@@ -18,31 +18,18 @@ Python: Pandas, NumPy, Matplotlib
 Environment: Google Colab / Jupyter Notebook
 
 🔍 Analysis Performed
-
 Data Cleaning
-
 Handled missing values, removed duplicates, standardized columns.
-
 Parsed date_added into year_added and month_added.
-
 Exploratory Data Analysis (EDA)
-
 Movies vs TV Shows distribution.
-
 Titles added over time (trend by year).
-
 Top producing countries.
-
 Top genres.
-
 Ratings distribution.
-
 Movie duration vs TV Show seasons.
-
 Visualization
-
 Bar charts, line plots, histograms for trend analysis.
-
 All plots saved in figures/ folder.
 
 📈 Key Insights
@@ -57,13 +44,6 @@ Drama and Comedy are the most common genres across titles.
 
 Most titles are rated TV-MA, indicating mature audience preference.
 
-📂 Project Structure
-├── netflix_eda.ipynb        # Main notebook (analysis code)
-├── netflix_titles.csv       # Original dataset (from Kaggle)
-├── netflix_titles_clean.csv # Cleaned dataset
-├── figures/                 # Saved plots
-├── report.md                # Auto-generated quick insights
-└── README.md                # Project documentation (this file)
 
 🚀 How to Run
 
